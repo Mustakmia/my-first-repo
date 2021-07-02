@@ -1,0 +1,46 @@
+                body {
+                    background-color: gray;
+                }
+                
+                .wellcome {
+                    background-color: lightseagreen;
+                    border: 5px solid yellow;
+                    border-radius: 15px;
+                    margin: 20px 40px;
+                    padding: 40px;
+                    text-align: center;
+                }
+                
+                .test {
+                    background-color: lightseagreen;
+                    border: 5px solid yellow;
+                    border-radius: 15px;
+                    margin: 20px 40px;
+                    padding: 40px;
+                }
+                
+                .service-title {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Courier New', Courier, monospace;
+                }
+                
+                .discription {
+                    text-align: justify;
+                }
+                
+                .voy {
+                    color: red;
+                }
+                
+                .ha {
+                    color: green;
+                }
+                
+                img {
+                    border: 5px solid red;
+                    border-radius: 10px;
+                    display: block;
+                    margin: 0 auto;
+                    text-align: center;
+                }
